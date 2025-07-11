@@ -55,6 +55,14 @@
 ## ⛳ STEAM
 https://store.steampowered.com/app/3757360/Glorious_Golf/
 
+## Languages & Tools
+- **C#**
+- **UIDocuments**
+- **VFXGraph**
+- **ShaderGraph**
+- **Unity Particlesystem**
+- **Input System**
+
 ## Contact
 Discord: Penniey
 Github: Pennniey
