@@ -44,8 +44,8 @@
 - **Dynamic Sound:** Audio pitch changes based on shot strength and landing force.
 
 ### 💾 Miscellaneous
-- **Save & Load Functionality:** Persistent game state.
-- **Sunshine Effect:** Added for environmental ambiance.
+- **Save & Load Functionality** 
+- **Lensflare Effect** 
 - **Terrain Sampling:** Created and sampled terrain for in-game scenes.
 - **Level design:** Part of designing the game’s village level with assets made by the graphic team.
 
