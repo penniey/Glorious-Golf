@@ -31,8 +31,8 @@
 - **Gravity:** Fine-tuned for smoother gameplay and faster pacing.
 
 ### 🚧 Obstacles
-- **Implemented:** Wind, bounce walls, honey, rotating objects, dissolving objects, ice.
-- **Disappearing Platforms:** Fully implemented; John contributed opacity transitions.
+- **Implemented:** Wind, bounce walls, honey, rotating objects, dissolving objects.
+- **Disappearing Platforms:** 
 
 ### 🎥 Camera
 - **Camera Controls:** Prevents unwanted rotation/speed changes with the ball.
